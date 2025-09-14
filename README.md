@@ -46,15 +46,6 @@ git clone https://github.com/your-username/nextjs-component-library
 
 4. Adjust the imports and configurations as needed
 
-## Structure
-
-```
-/pages
-  /landing-pages
-  /auth
-  /dashboards
-  /etc
-```
 
 ## Preview
 
